@@ -404,6 +404,7 @@ export function isFocusable(element: HTMLElement): boolean {
   return false;
 }
 
+
 /**
  * Checks if the provided element has a slotted element
  * in the slot with the corresponding slotName
